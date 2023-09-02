@@ -2,6 +2,9 @@
 
 Welcome to the Coffee-Orders Excel Dashboard Project! This repository contains the resources and files needed to create a user-friendly dashboard for tracking coffee orders. Whether you're a coffee enthusiast, a cafe owner, or just looking to explore Excel dashboards, you're in the right place.
 
+![image](https://github.com/SubhadeepMal/Coffee-Orders-Dashboard/assets/102183377/ddd33f51-f751-4318-bad4-ad1bcdf5e2c3)
+
+
 ## Project Overview
 
 The Coffee-Orders Excel Dashboard Project aims to provide a simple yet effective way to manage and analyze coffee orders. The dashboard is built using Microsoft Excel and offers a range of features to streamline the process of tracking orders, managing inventory, and gaining insights into your coffee business.
